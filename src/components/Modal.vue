@@ -38,7 +38,7 @@ export default {
     padding: 0;
 }
 .modal.sale{
-    background: crimson;
+    background: rgb(87, 220, 20);
     color: white;
 }
 .modal.sale h1{
